@@ -10,7 +10,7 @@ To build a predictive model that can accurately identify patients at risk of dia
 # Dataset
 Source: (Kaggle Custom dataset)
 
-(https://www.kaggle.com/datasets/mdnazmussadat1/diabetes-dataset)
+ https://www.kaggle.com/datasets/mdnazmussadat1/diabetes-dataset 
 
 # Technologies Used
 Python NumPy Pandas Matplotlib / Seaborn Scikit-learn
